@@ -1,4 +1,4 @@
-tep-by-Step Guide to Run the React Program
+step-by-Step Guide to Run the React Program
 Prerequisites
 Make sure you have the following installed:
 
